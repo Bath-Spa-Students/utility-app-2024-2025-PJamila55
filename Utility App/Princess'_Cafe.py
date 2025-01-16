@@ -1,6 +1,6 @@
 '''( 1 ) Utility App - Vending Machine'''
 # Princess Jamila Dinglasan
- 
+
 from tkinter import *
 
 '''( 2 ) Menu Dictionary'''
